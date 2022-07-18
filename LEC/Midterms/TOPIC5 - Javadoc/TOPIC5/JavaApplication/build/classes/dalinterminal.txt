@@ -1,0 +1,11 @@
+					DALIN TERMINAL
+
+   Class                  Terminal               Destination      Time           Travel        Fares
+First Class      Gov. Pack Rd, Baguio, Benguet 	Cagayan Valley    12:00 AM     11:00 Hours    550.00
+First Class      Gov. Pack Rd, Baguio, Benguet	Cagayan Valley    6:00  PM     11:00 Hours    550.00
+First Class	 Gov. Pack Rd, Baguio, Benguet	Cagayan Valley    7:30  AM     11:00 Hours    550.00
+First Class	 Gov. Pack Rd, Baguio, Benguet	Cagayan Valley    12:30 AM     11:00 Hours    550.00
+First Class	 Gov. Pack Rd, Baguio, Benguet  Tuguegarao        3:30  PM     10 Hours       480.00
+First Class	 Gov. Pack Rd, Baguio, Benguet  Tuguegarao        6:30  PM     10 Hours       480.00
+First Class      Gov. Pack Rd, Baguio, Benguet  Tuguegarao        12:00 AM     10 Hours       480.00
+First Class      Gov. Pack Rd, Baguio, Benguet  Tuguegarao        2:30  PM     10 Hours       480.00

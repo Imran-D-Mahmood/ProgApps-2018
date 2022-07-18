@@ -1,0 +1,16 @@
+						VICTORY TERMINAL
+
+Class	                    Terminal	         	        Destination       Time            Travel Hours      	Fares	
+First Class		Utility Rd, Baguio, Benguet		Pasay City	1:10 AM			7 hrs		450.00		
+First Class		Utility Rd, Baguio, Benguet		Pasay City	8:10 AM			7 hrs		450.00
+First Class		Utility Rd, Baguio, Benguet		Pasay City	11:10 AM		7 hrs		450.00
+First Class		Utility Rd, Baguio, Benguet		Pasay City	12:10 PM		7 hrs		450.00	
+First Class		Utility Rd, Baguio, Benguet		Pasay City	6:10 PM			7 hrs		450.00		
+First Class		Utility Rd, Baguio, Benguet		Pasay City	11:10 PM		7 hrs		450.00
+First Class		Utility Rd, Baguio, Benguet		Cubao		12:15 AM		6 hrs		440.00
+First Class		Utility Rd, Baguio, Benguet		Cubao		10:15 AM		6 hrs		440.00
+First Class		Utility Rd, Baguio, Benguet		Cubao		12:20 PM		6 hrs		440.00
+F0irst Class		Utility Rd, Baguio, Benguet		Cubao		2:15 PM			6 hrs		440.00
+First Class		Utility Rd, Baguio, Benguet		Cubao		8:15 PM			6 hrs		440.00
+First Class		Utility Rd, Baguio, Benguet		Cubao		11:15 PM		6 hrs		440.00
+	

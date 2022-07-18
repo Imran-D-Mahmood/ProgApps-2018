@@ -1,0 +1,18 @@
+					PARTAS TERMINAL
+
+Class	                    Terminal	         	             Destination       Time            Travel      Fares
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet	Laoag, Ilocos Norte	 7:00 PM	10	Php 315.00
+Deluxe 	        47 Gov. Pack Rd., Baguio City, 2600, Benguet    Laoag, Ilocos Norte	10:00 PM	10	Php 400.00
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet    Laoag, Ilocos Norte	10:00 PM	13.1	Php 315.00
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet	Vigan, Ilocos Sur	 7:00 PM	10	Php 315.00
+Deluxe 	        47 Gov. Pack Rd., Baguio City, 2600, Benguet    Vigan, Ilocos Sur	10:00 PM	10	Php 315.00
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet	Vigan, Ilocos Sur	10:00 PM	10	Php 315.00
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet    Bangued, Abra	         7:00 PM	9.35	Php 315.00
+Deluxe 	        47 Gov. Pack Rd., Baguio City, 2600, Benguet    Bangued, Abra	        10:00 PM	9	Php 400.00
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet    Bangued, Abra	        10:00 PM	9.35	Php 315.00
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet    Pidigan, Abra	         7:00 PM	9.05	Php 315.00
+Deluxe 	        47 Gov. Pack Rd., Baguio City, 2600, Benguet    Pidigan, Abra	        10:00 PM	8.1	Php 315.00
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet    Pidigan, Abra	        10:00 PM	9.05	Php 315.00
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet    San Quintin, Abra	 7:00 PM	  8.55	Php 315.00
+Deluxe 	        47 Gov. Pack Rd., Baguio City, 2600, Benguet    San Quintin, Abra	10:00 PM	7.7	Php 400.00
+First Class 	47 Gov. Pack Rd., Baguio City, 2600, Benguet    San Quintin, Abra	10:00 PM	8.55	Php 315.00
